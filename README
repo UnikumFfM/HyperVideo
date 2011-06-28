@@ -1,15 +1,30 @@
-Hallo Herr Müller, Hallo Herr Ecker, 
+Aktualisierung: 
+
+Ich habe nun die beiden ersten Szenarios hochgeladen. 
+
+Das erste ist nach wie vor wie unten beschrieben. Über Play das Video starten, anschließend den Button drücken, der im Video auftaucht. 
+
+Es öffnen sich zunächst alle drei Zusatzinformationen. Nun wieder auf Continue, um das Video fortzusetzen. Des Testes wegen laufen beide Videos ab dort parallel weiter. 
+
+Im zweiten Szenario stoppt das Video von alleine. Sie geben einen Text in die Texteingabe ein und drücken "Submit". Das Video läuft weiter, der Text wird in der Konsole ausgegeben!
+
+LG
+
+-----
+
+
+Hallo Herr Mueller, Hallo Herr Ecker, 
 
 ich hoffe, dass Sie Zugriff auf den Inhalt des Repository haben werden. 
 
-Ich habe nur die .h- und .m-Datei hochgeladen, sollte ich den ganzen Ordner hochladen, damit Sie die App ebenfalls bei sich testen können, sagen Sie Bescheid.
+Ich habe nur die .h- und .m-Datei hochgeladen, sollte ich den ganzen Ordner hochladen, damit Sie die App ebenfalls bei sich testen koennen, sagen Sie Bescheid.
 
 Funktionsweise: 
 
-Über das Drücken des "Play Movie"-Button wird das Video gestartet, bei 7 Sekunden taucht ein "i"-Button auf, den man betätigen kann, der sich (aus Testgründen) bei 10 Sekunden verschiebt und bei 12 Sekunden des Videos wieder verschwindet. Betätigt man den Button, öffnet sich ein Textfeld und ein Bild, das Hauptvideo pausiert. Über den "Play Movie"-Button (der sich zwischenzeitlich in "Continue" umgeschrieben hat) wird das Video fortgesetzt und die Zusatzinformationen verschwinden wieder.
+Über das Drücken des "Play Movie"-Button wird das Video gestartet, bei 7 Sekunden taucht ein "i"-Button auf, den man betätigen kann, der sich (aus Testgruenden) bei 10 Sekunden verschiebt und bei 12 Sekunden des Videos wieder verschwindet. Betätigt man den Button, öffnet sich ein Textfeld und ein Bild, das Hauptvideo pausiert. Über den "Play Movie"-Button (der sich zwischenzeitlich in "Continue" umgeschrieben hat) wird das Video fortgesetzt und die Zusatzinformationen verschwinden wieder.
 
 Als nächstes kümmere ich mich um das Aufrufen eines weiteren Videos als Zusatzinformation. 
 
-Ebenso könnte man sich um einen passenden Parser für die Metadaten umschauen. Wie schon gesehen, gibt es ein Framework für JSON-Dateien, das werde ich mir mal ansehen.
+Ebenso koennte man sich um einen passenden Parser Ufer die Metadaten umschauen. Wie schon gesehen, gibt es ein Framework fuer JSON-Dateien, das werde ich mir mal ansehen.
 
-Bisher ist das Video nur in Landscape auszuführen bzw. ansehnlich. Das wird bei Gelegenheit ebenfalls angegangen.
+Bisher ist das Video nur in Landscape auszufuehren bzw. ansehnlich. Das wird bei Gelegenheit ebenfalls angegangen.

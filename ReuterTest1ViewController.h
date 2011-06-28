@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 #import <MediaPlayer/MPMoviePlayerController.h>
+#import <AVFoundation/AVFoundation.h>
+#import <QuartzCore/QuartzCore.h>
+
 
 @interface ReuterTest1ViewController : UIViewController {
 	
@@ -18,6 +21,8 @@
 	UIButton *extraButton;
 	UITextView *extraTextView;
 	UIImageView *extraImageView;
+	AVPlayer *extraPlayer;
+	UIView *extraPlayerView;
 	
 }
 
@@ -28,6 +33,9 @@
 @property (nonatomic, retain) IBOutlet UIButton *extraButton;
 @property (nonatomic, retain) IBOutlet UITextView *extraTextView;
 @property (nonatomic, retain) IBOutlet UIImageView *extraImageView;
+@property (nonatomic, retain) AVPlayer *extraPlayer;
+@property (nonatomic, retain) IBOutlet UIView *extraPlayerView;
+
 
 
 -(NSURL *)movieURL;

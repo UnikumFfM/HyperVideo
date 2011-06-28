@@ -16,6 +16,8 @@
 @synthesize timeLabel;
 @synthesize extraButton;
 @synthesize extraTextView;
+@synthesize extraPlayer;
+@synthesize extraPlayerView;
 @synthesize extraImageView;
 
 
@@ -42,6 +44,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 	
+	
 	// ein Timer für die Methode "starteAnzeige" damit diese Methode jederzeit abgefragt wird
 	[NSTimer scheduledTimerWithTimeInterval:1.0f target:self selector:@selector(starteAnzeige:) userInfo:nil repeats:YES];
 	
@@ -66,6 +69,24 @@
 	
 	[moviePlayer pause];												//bei Knopfdruck pausieren des Videos
 	[movieButton setTitle:@"Continue" forState:UIControlStateNormal];	//StartKnopf wird umbenannt	
+	
+	/*Dies ist ein Test für ein zweites Video*/
+	
+	NSString *filePath = [[NSBundle mainBundle] pathForResource:@"angry" ofType:@"mp4"];	//File des Videos
+	NSURL *fileURL = [[NSURL alloc] initFileURLWithPath:filePath];							//File des Videos (URL)
+	
+	self.extraPlayer = [[AVPlayer alloc] initWithURL:fileURL];								//Initialisierung des Players
+	
+	AVPlayerLayer *playerLayer = [AVPlayerLayer playerLayerWithPlayer:extraPlayer];			//Initialisierung des PlayerLayers
+	playerLayer.frame = self.extraPlayerView.bounds;
+	
+	[self.extraPlayerView.layer addSublayer:playerLayer];
+	
+	//[self.extraPlayerView addSubview: extraPlayer];
+	[super viewDidLoad];
+	
+	[self.extraPlayer play];
+	/*End Test*/
 }
 
 

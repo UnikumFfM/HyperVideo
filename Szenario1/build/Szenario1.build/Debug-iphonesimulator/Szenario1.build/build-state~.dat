@@ -1,0 +1,269 @@
+TSzenario1
+v7
+r0
+t332239514.904211
+cCheck dependencies
+cProcessInfoPlistFile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Info.plist Szenario1-Info.plist
+cCompileXIB /Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib
+cCompileXIB /Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib
+cProcessPCH /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch.gch Szenario1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/main.o /Users/svenreuter/Hypervideo/Szenario1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1AppDelegate.o /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1ViewController.o /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1 normal i386
+cGenerateDSYMFile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app.dSYM /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1
+cTouch /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.h
+c000000004E1D5AA200000000000001EB
+t1310546594
+s491
+i<UIKit/UIKit.h>
+
+N/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m
+c000000004E1D5AA200000000000007BE
+t1310546594
+s1982
+i"Szenario1AppDelegate.h"
+i"Szenario1ViewController.h"
+
+N/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.h
+c000000004E1D5B140000000000000144
+t1310546708
+s324
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m
+c000000004E1D5AA20000000000000560
+t1310546594
+s1376
+i"Szenario1ViewController.h"
+
+N/Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib
+c000000004E1D5AA20000000000004D1D
+t1310546594
+s19741
+
+N/Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib
+c000000004E1D5AA20000000000003EE9
+t1310546594
+s16105
+
+N/Users/svenreuter/Hypervideo/Szenario1/Szenario1_Prefix.pch
+c000000004E1D5AA200000000000000BB
+t1310546594
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app
+t1310546714
+s238
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app.dSYM
+t1310546714
+s102
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Info.plist
+t1310546710
+s806
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/MainWindow.nib
+t1310546711
+s1127
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/PkgInfo
+t1310546710
+s8
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1
+t1310546714
+s17144
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1ViewController.nib
+t1310546711
+s764
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1.LinkFileList
+c000000004E1D5B16000000000000019D
+t1310546710
+s413
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1AppDelegate.o
+t1310546714
+s50512
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1ViewController.o
+t1310546714
+s38600
+
+N/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/main.o
+t1310546713
+s6304
+
+N/Users/svenreuter/Hypervideo/Szenario1/main.m
+c000000004E1D5AA2000000000000016B
+t1310546594
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch.gch
+t1310546713
+s15453392
+
+NSzenario1-Info.plist
+c000000004E1D5AA200000000000004D6
+t1310546594
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332239510#332239510#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1AppDelegate.o /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332239513.857811
+e332239514.059799
+r1
+xCompileC
+xbuild/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1AppDelegate.o
+x/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m332239513#332239514#0(0"0(0#0#69"/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m8611543392#1994"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-generated-files.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-own-target-headers.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-all-target-headers.hmap -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-project-headers.hmap -F/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -I/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/include -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources/i386 -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources -include /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch -c /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1AppDelegate.m -o /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1AppDelegate.o0#
+
+CCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1ViewController.o /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332239513.987337
+e332239514.185367
+r1
+xCompileC
+xbuild/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1ViewController.o
+x/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m332239513#332239514#0(0"0(0#0#72"/Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m8610796448#2000"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-generated-files.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-own-target-headers.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-all-target-headers.hmap -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-project-headers.hmap -F/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -I/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/include -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources/i386 -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources -include /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch -c /Users/svenreuter/Hypervideo/Szenario1/Classes/Szenario1ViewController.m -o /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1ViewController.o0#
+
+CCompileC build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/main.o /Users/svenreuter/Hypervideo/Szenario1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332239513.855506
+e332239513.987126
+r1
+xCompileC
+xbuild/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/main.o
+x/Users/svenreuter/Hypervideo/Szenario1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/svenreuter/Hypervideo/Szenario1/main.m332239513#332239514#0(0"0(0#0#45"/Users/svenreuter/Hypervideo/Szenario1/main.m8609580288#1954"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-generated-files.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-own-target-headers.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-all-target-headers.hmap -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-project-headers.hmap -F/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -I/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/include -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources/i386 -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources -include /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch -c /Users/svenreuter/Hypervideo/Szenario1/main.m -o /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib
+s332239510.727150
+e332239511.672785
+r1
+xCompileXIB
+x/Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib
+o2011-07-13 10:45:11.525 Interface Builder Cocoa Touch Tool[256:1903] CFPreferences: user home directory at file://localhost/Users/svenreuter/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib332239510#332239511#0(243"2011-07-13 10:45:11.525 Interface Builder Cocoa Touch Tool[256:1903] CFPreferences: user home directory at file://localhost/Users/svenreuter/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#53"/Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib8611799808#572"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/MainWindow.nib /Users/svenreuter/Hypervideo/Szenario1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib
+s332239510.747046
+e332239511.669875
+r1
+xCompileXIB
+x/Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib
+o2011-07-13 10:45:11.521 Interface Builder Cocoa Touch Tool[255:1b03] CFPreferences: user home directory at file://localhost/Users/svenreuter/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@38"CompileXIB Szenario1ViewController.xib332239510#332239511#0(243"2011-07-13 10:45:11.521 Interface Builder Cocoa Touch Tool[255:1b03] CFPreferences: user home directory at file://localhost/Users/svenreuter/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#66"/Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib8609379712#598"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1ViewController.nib /Users/svenreuter/Hypervideo/Szenario1/Szenario1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app.dSYM /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1
+s332239514.726330
+e332239514.869909
+r1
+xGenerateDSYMFile
+x/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app.dSYM
+x/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Szenario1.app.dSYM build/Debug-iphonesimulator/Szenario1.app/Szenario1332239514#332239514#0(0"0(0#0#90"/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario18611448352#389"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1 -o /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app.dSYM0#
+
+CLd /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1 normal i386
+s332239514.185553
+e332239514.726126
+r1
+xLd
+x/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1
+xnormal
+xi386
+lSLF07#2@95"Link /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario1332239514#332239514#0(0"0(0#0#0"8600537568#933"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -F/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -filelist /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Objects-normal/i386/Szenario1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -o /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Szenario10#
+
+CProcessInfoPlistFile /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Info.plist Szenario1-Info.plist
+s332239510.678774
+e332239510.726943
+r1
+xProcessInfoPlistFile
+x/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Info.plist
+xSzenario1-Info.plist
+lSLF07#2@28"Process Szenario1-Info.plist332239510#332239510#0(0"0(0#0#59"/Users/svenreuter/Hypervideo/Szenario1/Szenario1-Info.plist31244169098821736#485"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Szenario1-Info.plist -genpkginfo /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app/Info.plist0#
+
+CProcessPCH /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch.gch Szenario1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332239511.673125
+e332239513.855215
+r1
+xProcessPCH
+x/var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch.gch
+xSzenario1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Szenario1_Prefix.pch332239511#332239513#0(0"0(0#0#59"/Users/svenreuter/Hypervideo/Szenario1/Szenario1_Prefix.pch8611269088#1844"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-generated-files.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-own-target-headers.hmap -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-all-target-headers.hmap -iquote /Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/Szenario1-project-headers.hmap -F/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator -I/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/include -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources/i386 -I/Users/svenreuter/Hypervideo/Szenario1/build/Szenario1.build/Debug-iphonesimulator/Szenario1.build/DerivedSources -c /Users/svenreuter/Hypervideo/Szenario1/Szenario1_Prefix.pch -o /var/folders/AW/AWly9g59E2CLrnI2ejwdM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Szenario1_Prefix-aahvnjuvmrhdwcalevgtzptdmwkj/Szenario1_Prefix.pch.gch0#
+
+CTouch /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app
+s332239514.870078
+e332239514.904109
+r1
+xTouch
+x/Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app
+lSLF07#2@86"Touch /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app332239514#332239514#0(0"0(0#0#0"8610606464#280"    cd /Users/svenreuter/Hypervideo/Szenario1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/svenreuter/Hypervideo/Szenario1/build/Debug-iphonesimulator/Szenario1.app0#
+

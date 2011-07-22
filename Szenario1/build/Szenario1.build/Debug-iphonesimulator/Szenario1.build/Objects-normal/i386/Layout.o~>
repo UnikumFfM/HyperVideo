@@ -1,0 +1,4 @@
+In file included from /Users/svenreuter/Hypervideo/Szenario1/Classes/Layout.m:9:
+/Users/svenreuter/Hypervideo/Szenario1/Classes/Layout.h:9:24: error: Cocoa/Cocoa.h: No such file or directory
+/Users/svenreuter/Hypervideo/Szenario1/Classes/Layout.m:14: warning: incomplete implementation of class 'Layout'
+/Users/svenreuter/Hypervideo/Szenario1/Classes/Layout.m:14: warning: method definition for '-load:' not found

@@ -1,0 +1,15 @@
+[{
+	"Bezeichnung": "Bild",
+	"XPos": "50",
+	"YPos": "100",
+	"Start": "4",
+	"Ende": "8",
+	"Dateiinformation": "Bild.jpg"
+},{
+	"Bezeichnung": "Text",
+	"XPos": "250",
+	"YPos": "300",
+	"Start": "6",
+	"Ende": "13",
+	"Dateiinformation": "Dieser Text wird aus einer JSON-Datei ausgelesen und für Textinformationen verwendet!"
+	}]
